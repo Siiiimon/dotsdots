@@ -1,0 +1,7 @@
+neovim
+fzf
+vim-plug (jungegunn)
+
+(optionals)
+exa
+bat
